@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022\19.09.2022\bin\Debug\19.09.2022.exe.config
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022\19.09.2022\bin\Debug\19.09.2022.exe
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022\19.09.2022\bin\Debug\19.09.2022.pdb
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022\19.09.2022\obj\Debug\19.09.2022.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022\19.09.2022\obj\Debug\_19._09._2022.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022\19.09.2022\obj\Debug\_19._09._2022.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022\19.09.2022\obj\Debug\19.09.2022.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022\19.09.2022\obj\Debug\19.09.2022.exe
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022\19.09.2022\obj\Debug\19.09.2022.pdb
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022\19.09.2022\bin\Debug\19.09.2022.exe.config
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022\19.09.2022\bin\Debug\19.09.2022.exe
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022\19.09.2022\bin\Debug\19.09.2022.pdb
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022\19.09.2022\obj\Debug\19.09.2022.csproj.AssemblyReference.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022\19.09.2022\obj\Debug\19.09.2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022\19.09.2022\obj\Debug\_19._09._2022.Form1.resources
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022\19.09.2022\obj\Debug\_19._09._2022.Properties.Resources.resources
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022\19.09.2022\obj\Debug\19.09.2022.csproj.GenerateResource.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022\19.09.2022\obj\Debug\19.09.2022.csproj.CoreCompileInputs.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022\19.09.2022\obj\Debug\19.09.2022.exe
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022\19.09.2022\obj\Debug\19.09.2022.pdb
